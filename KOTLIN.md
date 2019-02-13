@@ -32,20 +32,20 @@ LM-SJN-XXXXXXXX:~ robasu$
 
 vs *JAVA*
 
-Lambda expressions + Inline functions = performant custom control structures
-Extension functions
-Null-safety
-Smart casts
-String templates
-Properties
-Primary constructors
-First-class delegation
-Type inference for variable and property types
-Singletons
-Declaration-site variance & Type projections
-Range expressions
-Operator overloading
-Companion objects
-Data classes
-Separate interfaces for read-only and mutable collections
-Coroutines
+- Lambda expressions + Inline functions = performant custom control structures
+- Extension functions
+- Null-safety
+- Smart casts
+- String templates
+- Properties
+- Primary constructors
+- First-class delegation
+- Type inference for variable and property types
+- Singletons
+- Declaration-site variance & Type projections
+- Range expressions
+- Operator overloading
+- Companion objects
+- Data classes
+- Separate interfaces for read-only and mutable collections
+- Coroutines
