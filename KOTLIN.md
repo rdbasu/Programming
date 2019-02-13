@@ -25,3 +25,6 @@ LM-SJN-XXXXXXXX:~ robasu$
 ```
 
 *The **-include-runtime** option makes the resulting .jar file self-contained and runnable by including the Kotlin runtime library in it.*
+
+*quick to get set up and started with*
+**can be difficult to master**
