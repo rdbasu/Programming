@@ -100,5 +100,6 @@ rustup doc
 ## Hello World
 
 A new file called **helloworld.rs**
+
 *Rust files always end with the **.rs** extension*
 
