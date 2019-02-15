@@ -51,3 +51,4 @@ LM-SJN-XXXXXXXX:helloworld robasu$
 
 ## 5 THINGS
 - Goroutines
+- SIMPLE TO UNDERSTAND
