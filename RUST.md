@@ -6,7 +6,6 @@ Rust empowers you to reach farther, to program with confidence in a wider variet
 Take, for example, **“systems-level”** work that deals with low-level details of memory management, data representation, and concurrency.
 
 **speed and memory usage**
-
 ## low-level systems programming
 ### CLI apps, web servers,...
 
@@ -98,8 +97,27 @@ rustup doc
 ```
 
 ## Hello World
+### helloworld.rs
 
-A new file called **helloworld.rs**
+```
+LM-SJN-21002796:helloworld robasu$ cat helloworld.rs 
+fn main() {
+    println!("Hello, world!");
+}
+LM-SJN-21002796:helloworld robasu$ 
+```
 
-*Rust files always end with the **.rs** extension*
+## Compile & Run
+```
+LM-SJN-XXXXXXXX:helloworld robasu$ rustc helloworld.rs 
+LM-SJN-XXXXXXXX:helloworld robasu$ ./helloworld 
+Hello, world!
+LM-SJN-XXXXXXXX:helloworld robasu$ 
+```
 
+## 5 THINGS
+- speed and memory usage
+- low-level systems programming
+- High-level ergonomics and low-level control
+- Safe systems programming
+- Cargo
