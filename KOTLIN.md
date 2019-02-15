@@ -33,6 +33,11 @@ LM-SJN-XXXXXXXX:~ robasu$
 **can be difficult to master**
 
 ## 5 THINGS
+
+- CONCISE
+- INTEROPERABLE
+- TOOL FRIENDLY
+
 vs *JAVA*
 
 - Lambda expressions + Inline functions = performant custom control structures
