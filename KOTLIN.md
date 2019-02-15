@@ -1,10 +1,12 @@
+## INSTALL KOTLIN
+
 ```
 LM-SJN-XXXXXXXX:~ robasu$ brew update
 LM-SJN-XXXXXXXX:~ robasu$ brew install kotlin
 ```
 
 ## Hello World
-A new file called **helloworld.kt** 
+### helloworld.kt
 
 *Kotlin files always end with the **.kt** extension*
 
@@ -30,6 +32,7 @@ LM-SJN-XXXXXXXX:~ robasu$
 
 **can be difficult to master**
 
+## 5 THINGS
 vs *JAVA*
 
 - Lambda expressions + Inline functions = performant custom control structures
