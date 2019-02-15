@@ -1,4 +1,6 @@
 
+## INSTALL GO
+
 *Download the package file* -
 https://golang.org/dl/
 
@@ -24,7 +26,7 @@ drwxr-xr-x  15 robasu  120020480  510 Sep 18 15:10 github.com
 drwxr-xr-x   2 robasu  120020480   68 Feb 13 23:12 helloworld
 LM-SJN-XXXXXXXX:src robasu$ 
 ```
-
+## HELLO WORLD 
 ### helloworld.go
 ```
 LM-SJN-XXXXXXXX:helloworld robasu$ cat helloworld.go 
@@ -46,3 +48,6 @@ LM-SJN-XXXXXXXX:helloworld robasu$ ./helloworld
 hello, world
 LM-SJN-XXXXXXXX:helloworld robasu$ 
 ```
+
+## 5 THINGS
+- Goroutines
