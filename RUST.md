@@ -6,8 +6,8 @@ Rust empowers you to reach farther, to program with confidence in a wider variet
 Take, for example, **“systems-level”** work that deals with low-level details of memory management, data representation, and concurrency.
 
 **speed and memory usage**
-## low-level systems programming
-### CLI apps, web servers,...
+**low-level systems programming**
+**CLI apps, web servers,...**
 
 **High-level ergonomics and low-level control**
 
