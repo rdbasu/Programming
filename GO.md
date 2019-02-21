@@ -8,13 +8,14 @@ https://golang.org/dl/
 - The package should put the */usr/local/go/bin* directory in your PATH environment variable. 
 
 ```
-LM-SJN-XXXXXXXX:~ robasu$ go version
+~ $go version
 go version go1.11 darwin/amd64
-LM-SJN-XXXXXXXX:~ robasu$ `
 ```
-
 *Create your workspace directory, **$HOME/go**. (If you'd like to use a different directory, you will need to set the GOPATH environment variable.)*
-
+```
+~ $echo $GOPATH
+/Users/robasu/go
+```
 *make the directory **src/helloworld** inside your workspace, and in that directory create a file named **helloworld.go***
 
 ```
