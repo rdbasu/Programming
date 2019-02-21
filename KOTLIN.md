@@ -5,6 +5,12 @@ LM-SJN-XXXXXXXX:~ robasu$ brew update
 LM-SJN-XXXXXXXX:~ robasu$ brew install kotlin
 ```
 
+```
+LM-SJN-XXXXXXXX:~ robasu$ kotlin -version
+Kotlin version 1.3.21-release-158 (JRE 1.8.0_102-b14)
+LM-SJN-XXXXXXXX:~ robasu$ 
+```
+
 ## Hello World
 ### helloworld.kt
 
