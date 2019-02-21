@@ -12,14 +12,22 @@ Take, for example, **“systems-level”** work that deals with low-level detail
 ## Dependency Manager
 Cargo, the included dependency manager and build tool, makes adding, compiling, and managing dependencies painless and consistent across the Rust ecosystem.
 
-## Installation
-`rustup` a command line tool for managing Rust versions and associated tools
-
+## INSTALL RUST
 ```
 curl https://sh.rustup.rs -sSf | sh
 ```
-
+*Check*
 ```
+LM-SJN-XXXXXXXX:~ robasu$ rustc --version
+rustc 1.32.0 (9fda7c223 2019-01-16)
+```
+*Local Documentation*
+```
+rustup doc
+```
+`rustup` a command line tool for managing Rust versions and associated tools
+```
+
 LM-SJN-XXXXXXXX:Documents robasu$ curl https://sh.rustup.rs -sSf | sh
 info: downloading installer
 
@@ -77,17 +85,6 @@ environment variable. Next time you log in this will be done automatically.
 
 To configure your current shell run source $HOME/.cargo/env
 LM-SJN-XXXXXXXX:Documents robasu$ 
-```
-*To check whether you have Rust installed correctly*
-```
-LM-SJN-XXXXXXXX:~ robasu$ rustc --version
-rustc 1.32.0 (9fda7c223 2019-01-16)
-LM-SJN-XXXXXXXX:~ robasu$ 
-```
-
-*Local Documentation*
-```
-rustup doc
 ```
 
 ## Hello World
