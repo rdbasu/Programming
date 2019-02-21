@@ -14,8 +14,6 @@ LM-SJN-XXXXXXXX:~ robasu$
 ## Hello World
 ### helloworld.kt
 
-*Kotlin files always end with the **.kt** extension*
-
 ```
 LM-SJN-XXXXXXXX:~ robasu$ cat helloworld.kt 
 fun main(args: Array<String>) {
